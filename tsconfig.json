@@ -29,6 +29,6 @@
     ".next/types/**/*.ts",
     ".next/dev/types/**/*.ts",
     "**/*.mts"
-  ],
+, "components/Notes/Notes.jsx", "components/Calendar/Calendar.jsx", "components/Calendar/DayCell.jsx"  ],
   "exclude": ["node_modules"]
 }
